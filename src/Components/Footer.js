@@ -16,18 +16,18 @@ const Footer = () => {
         <div className="footer-section footer-contact">
           <h2 className="footer-title">Contact</h2>
           <ul>
-            <li>Email: <a href="mailto:beautyparlour@example.com">renukamakeup6@gmail.com</a></li>
+            <li>Email: <a href="mailto:renukamakeup6@gmail.com">renukamakeup6@gmail.com</a></li>
             <li>Phone: <a href="tel:+1234567890">6301479701</a></li>
             <li>Phone: <a href="tel:+1234567890"> 9392633540</a></li>
 
-            <li>Address: 123 Beauty Street, Fashion City</li>
+            <li>Address: Bhoomi Reddy Colony, Quthubullapur, Hyderabad</li>
           </ul>
         </div>
 
         <div className="footer-section footer-social" style={{textAlign:"center",alignItems:"center",justifyContent:"center"}}>
           <h2 className="footer-title">Follow Us</h2>
           <div className="social-icons" >
-            <a href="#" style={{color:"white",fontSize:"40px"}} ><FaFacebook  /></a>
+            <a href="https://www.instagram.com/renu_makeup_artist7?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" style={{color:"white",fontSize:"40px"}} ><FaFacebook  /></a>
             <a href="#" style={{color:"white",fontSize:"40px"}}><FaInstagram /></a>
             <a href="#" style={{color:"white",fontSize:"40px"}}><FaTwitter /></a>
             <a href="#" style={{color:"white",fontSize:"40px"}}><FaLinkedin /></a>
